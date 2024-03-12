@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "GitHub Light Colorblind (Beta)",
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#eeeeee",
+      "statusBar.foreground": "#a2a2a2",
+      "statusBar.noFolderBackground": "#000000",
+      "statusBar.noFolderForeground": "#969696",
+      // default:
+      "editorError.border": "#00000000",
+      "editorWarning.border": "#00000000"
+    }
+  }
+}
