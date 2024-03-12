@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# Portfolio App Project
+
+### tech
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Built using NodeJS
 
-In the project directory, you can run:
+### descr
 
-### `npm start`
+This app focuses on the collection and management of data be it an income portfolio, growth portfolio, or any other.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> Это приложение, фокусируется на сборе и управлении данными, будь то портфель доходов, портфель роста или любой другой.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+It consists of the server which provides data on request, the database which organizes the information, and the application that channels it.
 
-### `npm test`
+> Оно состоит из сервера, который предоставляет данные по запросу, базы данных, которая организует информацию, и приложения, которое направляет ее.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The server should respond with the request made by the client.
 
-### `npm run build`
+> Сервер должен отвечать на запрос клиента.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Here, you can also use CRUD operation to create, read, update and delete entries. It should have a display feature to display the updated data. The user’s profile to manage personal information should also be encrypted.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Здесь также можно использовать операции CRUD для создания, чтения, обновления и удаления записей. В нем должна быть функция отображения обновленных данных. Профиль пользователя для управления личной информацией также должен быть зашифрован.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### features
 
-### `npm run eject`
+- Manages the data.
+- Data Analysis to produce the appropriate output.
+- Secure the app by deploying physical database security.
+- A Submit button to submit all the details entered by the user.
+- Defining separate routes for each navigation.
+- Technologies to use: HTML, CSS, Responsiveness.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Управление данными.
+- Анализ данных для получения соответствующего результата.
+- Защита приложения путем развертывания физической защиты базы данных.
+- Кнопка Submit для отправки всех данных, введенных пользователем.
+- Определение отдельных маршрутов для каждой навигации.
+- Используемые технологии: HTML, CSS, отзывчивость.

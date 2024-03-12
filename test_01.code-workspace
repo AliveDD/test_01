@@ -5,6 +5,8 @@
     }
   ],
   "settings": {
+    "editor.wordWrapColumn": 80,
+    "editor.rulers": [80],
     "workbench.colorTheme": "GitHub Light Colorblind (Beta)",
     "workbench.colorCustomizations": {
       "statusBar.background": "#eeeeee",
